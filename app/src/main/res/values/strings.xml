@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TaskManagerApp</string>
+    <string name="title_hint">Task Title</string>
+    <string name="description_hint">Description</string>
+    <string name="due_date_hint">Due Date (dd/MM/yyyy)</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="menu_tasks">Tasks</string>
+    <string name="menu_add">Add</string>
+    <string name="due_date_label">Due Date: %1$s</string>
+    <string name="no_description">No description.</string>
+    <string name="error_title_required">Title is required</string>
+    <string name="error_date_required">Due date is required</string>
+    <string name="error_date_invalid">Enter a valid date (dd/MM/yyyy)</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="recycler_view_description">List of tasks</string>
+</resources>
